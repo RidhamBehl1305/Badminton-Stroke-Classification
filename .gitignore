@@ -1,0 +1,6 @@
+# IPython notebook checkpoints
+.ipynb_checkpoints
+
+# Compiled python
+*.pyc
+*.pyd
